@@ -1,0 +1,7 @@
+{
+  "name": "Tuk Tuk Rider",
+  "description": "Production-quality Food Delivery Rider & Partner platform for Tuk Tuk with complete order lifecycle, live offline/online modes, earnings tracking, and KYC onboarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
